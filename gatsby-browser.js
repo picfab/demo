@@ -5,3 +5,4 @@
  */
 
 import './src/styles/globals.css'
+import "tw-elements/dist/css/tw-elements.min.css";
